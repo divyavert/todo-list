@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-list/static/css/main.6115f6b1.css",
-    "main.js": "/todo-list/static/js/main.3a7b9d58.js",
-    "static/js/787.28cb0dcd.chunk.js": "/todo-list/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/todo-list/index.html",
-    "main.6115f6b1.css.map": "/todo-list/static/css/main.6115f6b1.css.map",
-    "main.3a7b9d58.js.map": "/todo-list/static/js/main.3a7b9d58.js.map",
-    "787.28cb0dcd.chunk.js.map": "/todo-list/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/apiCallProject/static/css/main.925b9c68.css",
+    "main.js": "/apiCallProject/static/js/main.d1463ed8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/apiCallProject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/apiCallProject/index.html",
+    "main.925b9c68.css.map": "/apiCallProject/static/css/main.925b9c68.css.map",
+    "main.d1463ed8.js.map": "/apiCallProject/static/js/main.d1463ed8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/apiCallProject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6115f6b1.css",
-    "static/js/main.3a7b9d58.js"
+    "static/css/main.925b9c68.css",
+    "static/js/main.d1463ed8.js"
   ]
 }
